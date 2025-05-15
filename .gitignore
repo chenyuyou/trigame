@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# 非上传文件
+simulation_plots/
+
+
 # C extensions
 *.so
 
