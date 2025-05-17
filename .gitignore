@@ -6,8 +6,8 @@ __pycache__/
 
 # 非上传文件
 simulation_plots/
-
-
+*.png
+*.pdf
 # C extensions
 *.so
 
